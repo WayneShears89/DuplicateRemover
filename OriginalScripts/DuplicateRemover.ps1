@@ -1,0 +1,1 @@
+﻿gc duplicates.txt | sort | get-unique > output.txt
